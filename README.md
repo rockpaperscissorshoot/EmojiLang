@@ -58,7 +58,7 @@ Translate: "They ate 10 pizzas."
 
 **Practice**:  
 Translate: "Did they not see the cat?"  
-*(Answer: 🎭❌👀⌛🐱❓)*  
+*(Answer: ⌛🎭❌👀🐱❓)| ⌛+ ❓ (instead of how not see the the cat timeglass pluas Question mark make did)*
 
 ---
 
@@ -79,14 +79,14 @@ Combine symbols metaphorically:
 
 #### **Emotions**  
 Add emojis like 😢 or 😡 to clarify tone:  
-👤🗣️❤️😢 = "I say ‘I love you’ sadly."  
+👤🗣️👤❤️😢 = "I say ‘I love you’/ sadly."  
 
 ---
 
 ### **Lesson 7: Practice Dialogues**  
 **Dialogue 1**  
 👤: 👤➡️🏠🚀❓ ("Will I go home?")  
-👤👤: ❌📍🌧️➡️🏠❗ ("No, go home in the rain!")  
+👤👤: ❌➡️🏠📍🌧️❗ ("No, go home in the rain!")  
 
 **Dialogue 2**  
 👥❤️🍴➕💤📍🌈 = "We love to eat and sleep in paradise."  
@@ -104,8 +104,8 @@ Translate these into EmojiLang:
 ---
 
 **Answers**:  
-1. 👩❌🍴🚀💧📅🚀  
-2. 🎭📖👉👤❓  
+1. 👩🚀❌🍴💧📅🚀  
+2. 🎭📖👉📖❓  
 3. 🐶👀⌛3️⃣🐦📍🌳  
 
 ---
