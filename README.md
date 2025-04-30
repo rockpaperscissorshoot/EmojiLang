@@ -67,7 +67,8 @@ Translate: "Did they not see the cat?"
 - **👉** = Ownership: 👤👉📖 = "My book."  
 
 **Example**:  
-👤➡️🌳📍🌞 = "I go to the tree in the sun."  
+👤➡️🌳📍🌞 = "I go to the tree in the sun." 
+👤👉👤🔟💵 = "I have ten dollars"
 
 ---
 
@@ -121,69 +122,65 @@ Translate these into EmojiLang:
 👤🗣️🔊 = "I speak loudly"  
 
 **Comparatives/Superlatives**:  
-⬆️ = "more" | ⬇️ = "less" | 💎 = "most/very"  Z
-🌳⬆️🌲 = "Taller than a tree"  Z
-👑💎👑 = "The very best"  Z
+⬆️ = "more" | ⬇️ = "less" | 💎 = "the most"  
+👤👉👤⬆️📖 = "I have more books"  
+👤👉👤⏳💎💤= "I had the most sleep"  
 
 **Practice**:  
-Translate: "The small bird sings beautifully."  
-*Answer*: 🐦🟢🎶✨  
+Translate: "The green bird sings beautifully."  
+*Answer*: 🟢🐦🎶✨  
 
 ---
 
 ### **Lesson 9: Conjunctions & Clauses**  
-🔀 = "or" | ➖ = "but" | 🤝 = "because"  
-👤🍎🔀🍊 = "I want an apple *or* orange."  
-👤❤️🐶➖👤❌📦🐱 = "I love dogs *but* hate cats."  
+🔀 = "or" | ➖ = "but" | 🤝 = "because" | 👈 = "want" | 
+👤👈🍎🔀🍊 = "I want an apple *or* orange."  
+👤❤️🐶➖👤❌📦🐱 = "I love dogs *but* I hate cats."  
 👤💤🤝👤😴 = "I sleep *because* I’m tired."  
 
 **Practice**:  
-Translate: "She cooks and he cleans."  
-*Answer*: 👩🍳➕👨🧹  
+Translate: "he cooks but she cleans."  
+*Answer*: 👨🍳➖👨🧹  
 
 ---
 
 ### **Lesson 10: Time Expressions**  
 🕒 = "now" | 🌙 = "yesterday" | 🌅 = "tomorrow"  
 👤🍴🕒 = "I eat *now*."  
-👥🏃🚀🌅 = "We will run *tomorrow*."  
+👥🚀🏃🌅 = "We will run *tomorrow*."  
 
-**Duration**: Use ⏳ for "during/while."  
-👤📖⏳👤☕ = "I read *while* drinking coffee."  
+**Duration**: Use 🔄 for "while"  
+👤📖🔄👤🍴☕ = "I read *while* I drink coffee."  
 
 **Practice**:  
 Translate: "They laughed yesterday but will cry tomorrow."  
-*Answer*: 🎭😂🌙➖🎭😭🌅  
+*Answer*: 🎭😂🌙➖🎭🚀😭🌅  
 
 ---
 
 ### **Lesson 11: Passive Voice & Indirect Objects**  
 **Passive**: Add 🔄 after the verb.  
-🍎🍴🔄 = "The apple *is eaten*."  
-🍎🍴🔄👤 = "The apple *is eaten by me*."  
+🍎🍴🔄 = "The apple *is eaten*."  Z
+🍎🍴🔄👤 = "The apple *is eaten by me*." Z 
 
-**Indirect Objects**: Use 🤲 ("to/for").  
-👤🎁🤲👩 = "I give a gift *to her*."  
+**Indirect Objects**: Use 🤲 ("to/for") | Use 🫴 ("give").  
+👤🫴🎁🤲👩 = "I give a gift *to her*."  
 
 **Practice**:  
 Translate: "The song was sung by them for us."  
-*Answer*: 🎶🎤🔄🎭🤲👥  
+*Answer*: 🎶🎤🔄🎭🤲👥  Z
 
 ---
 
-### **Lesson 12: Advanced Questions & Metaphors**  
+### **Lesson 12: Advanced Questions **  
 **Question Words**:  
 🌍❓ = "Where?" | 💡❓ = "Why?" | 🛠️❓ = "How?"  
-🌍❓👤🏠 = "*Where* is my house?"  
+🌍❓👉🏠 = "*Where* is my house?"  
 💡❓🎭😢 = "*Why* are they sad?"  
-
-**Metaphors**:  
-🔥💧 = "Conflict" (fire + water)  
-🌪️💔 = "Chaotic heartbreak"  
 
 **Practice**:  
 Translate: "How did the storm destroy the city?"  
-*Answer*: 🛠️❓🌪️💥🏙️  
+*Answer*: 🛠️❓🌪️💥🏙️❓  
 
 ---
 
