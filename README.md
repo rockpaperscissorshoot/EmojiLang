@@ -1,4 +1,4 @@
-Absolutely! Let’s break down **EmojiLang** into lessons, starting with basics and building up to fluency. 🧑🏫✨  
+  
 
 ---
 
@@ -93,7 +93,7 @@ Add emojis like 😢 or 😡 to clarify tone:
 
 ---
 
-### **Final Exam** 😎  
+### **Exam** 😎  
 Translate these into EmojiLang:  
 1. "She will not drink water tomorrow."  
 2. "Are they reading my book?"  
@@ -109,7 +109,96 @@ Translate these into EmojiLang:
 3. 🐶👀⌛3️⃣🐦📍🌳  
 
 ---
+---
 
-Keep practicing! EmojiLang thrives on creativity—use context and metaphors to refine meaning. 🌟  
-**Ask me for more examples or challenges!** 😊
+### **Lesson 8: Adjectives & Adverbs**  
+**Adjectives**: Place before nouns.  
+🔴🚗 = "Red car"  
+📏📖 = "Long book"  
+
+**Adverbs**: Place after verbs.  
+👤🏃⚡ = "I run quickly"  
+👤🗣️🔊 = "I speak loudly"  
+
+**Comparatives/Superlatives**:  
+⬆️ = "more" | ⬇️ = "less" | 💎 = "most/very"  Z
+🌳⬆️🌲 = "Taller than a tree"  Z
+👑💎👑 = "The very best"  Z
+
+**Practice**:  
+Translate: "The small bird sings beautifully."  
+*Answer*: 🐦🟢🎶✨  
+
+---
+
+### **Lesson 9: Conjunctions & Clauses**  
+🔀 = "or" | ➖ = "but" | 🤝 = "because"  
+👤🍎🔀🍊 = "I want an apple *or* orange."  
+👤❤️🐶➖👤❌📦🐱 = "I love dogs *but* hate cats."  
+👤💤🤝👤😴 = "I sleep *because* I’m tired."  
+
+**Practice**:  
+Translate: "She cooks and he cleans."  
+*Answer*: 👩🍳➕👨🧹  
+
+---
+
+### **Lesson 10: Time Expressions**  
+🕒 = "now" | 🌙 = "yesterday" | 🌅 = "tomorrow"  
+👤🍴🕒 = "I eat *now*."  
+👥🏃🚀🌅 = "We will run *tomorrow*."  
+
+**Duration**: Use ⏳ for "during/while."  
+👤📖⏳👤☕ = "I read *while* drinking coffee."  
+
+**Practice**:  
+Translate: "They laughed yesterday but will cry tomorrow."  
+*Answer*: 🎭😂🌙➖🎭😭🌅  
+
+---
+
+### **Lesson 11: Passive Voice & Indirect Objects**  
+**Passive**: Add 🔄 after the verb.  
+🍎🍴🔄 = "The apple *is eaten*."  
+🍎🍴🔄👤 = "The apple *is eaten by me*."  
+
+**Indirect Objects**: Use 🤲 ("to/for").  
+👤🎁🤲👩 = "I give a gift *to her*."  
+
+**Practice**:  
+Translate: "The song was sung by them for us."  
+*Answer*: 🎶🎤🔄🎭🤲👥  
+
+---
+
+### **Lesson 12: Advanced Questions & Metaphors**  
+**Question Words**:  
+🌍❓ = "Where?" | 💡❓ = "Why?" | 🛠️❓ = "How?"  
+🌍❓👤🏠 = "*Where* is my house?"  
+💡❓🎭😢 = "*Why* are they sad?"  
+
+**Metaphors**:  
+🔥💧 = "Conflict" (fire + water)  
+🌪️💔 = "Chaotic heartbreak"  
+
+**Practice**:  
+Translate: "How did the storm destroy the city?"  
+*Answer*: 🛠️❓🌪️💥🏙️  
+
+---
+
+### **Final Exam 2.0** 😎  
+1. "The very old book was read by her yesterday."  
+2. "Why are you (plural) running but not laughing?"  
+3. "If I study, I will pass the test."  
+
+*Answers*:  
+1. 📖💎⌛📖🔄👩🌙  
+2. 💡❓👤👤🏃➖❌😆  
+3. 🤔👤📚, 👤✅📝🚀  
+
+---
+
+EmojiLang now supports complex ideas like metaphors, conditionals, and indirect speech! 🌟 Keep experimenting—context and creativity are key. 🎨  
+Ask for clarifications or more examples! 😊
 
