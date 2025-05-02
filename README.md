@@ -128,7 +128,7 @@ Translate these into EmojiLang:
 
 **Practice**:  
 Translate: "The green bird sings beautifully."  
-*Answer*: 🟢🐦🎶✨  
+*Answer*: 🟢🐦🎤✨  
 
 ---
 
@@ -139,7 +139,7 @@ Translate: "The green bird sings beautifully."
 👤💤🤝👤😴 = "I sleep *because* I’m tired."  
 
 **Practice**:  
-Translate: "he cooks but she cleans."  
+Translate: "he cooks but he cleans."  
 *Answer*: 👨🍳➖👨🧹  
 
 ---
@@ -150,7 +150,7 @@ Translate: "he cooks but she cleans."
 👥🚀🏃🌅 = "We will run *tomorrow*."  
 
 **Duration**: Use 🔄 for "while"  
-👤📖🔄👤🍴☕ = "I read *while* I drink coffee."  
+👤🏃🔄👤🍴☕ = "I read *while* I drink coffee."  
 
 **Practice**:  
 Translate: "They laughed yesterday but will cry tomorrow."  
@@ -159,16 +159,16 @@ Translate: "They laughed yesterday but will cry tomorrow."
 ---
 
 ### **Lesson 11: Passive Voice & Indirect Objects**  
-**Passive**: Add 🔄 after the verb.  
-🍎🍴🔄 = "The apple *is eaten*."  Z
-🍎🍴🔄👤 = "The apple *is eaten by me*." Z 
+**Passive**: Add 🎯 after the verb.  
+🍎🍴🎯 = "The apple *is eaten*."  
+🍎🍴🎯👤 = "The apple *is eaten by me*."  
 
 **Indirect Objects**: Use 🤲 ("to/for") | Use 🫴 ("give").  
 👤🫴🎁🤲👩 = "I give a gift *to her*."  
 
 **Practice**:  
 Translate: "The song was sung by them for us."  
-*Answer*: 🎶🎤🔄🎭🤲👥  Z
+*Answer*: 🎶🎤🔄⏳🎭🤲👥  
 
 ---
 
@@ -176,7 +176,7 @@ Translate: "The song was sung by them for us."
 **Question Words**:  
 🌍❓ = "Where?" | 💡❓ = "Why?" | 🛠️❓ = "How?"  
 🌍❓👉🏠 = "*Where* is my house?"  
-💡❓🎭😢 = "*Why* are they sad?"  
+💡❓🎭😢❓ = "*Why* are they sad?"  
 
 **Practice**:  
 Translate: "How did the storm destroy the city?"  
@@ -184,18 +184,21 @@ Translate: "How did the storm destroy the city?"
 
 ---
 
+### **Lesson 12: Contitional statements **  
+**If Statements**:  
+🤔 = "if" |
+
+---
+
 ### **Final Exam 2.0** 😎  
-1. "The very old book was read by her yesterday."  
+1. "The very beautiful book was read by her yesterday."  
 2. "Why are you (plural) running but not laughing?"  
 3. "If I study, I will pass the test."  
 
 *Answers*:  
-1. 📖💎⌛📖🔄👩🌙  
-2. 💡❓👤👤🏃➖❌😆  
+1. 📖💎✨📖🔄👩🌙  
+2. 💡❓👤👤🏃➖❌😆❓ 
 3. 🤔👤📚, 👤✅📝🚀  
 
 ---
-
-EmojiLang now supports complex ideas like metaphors, conditionals, and indirect speech! 🌟 Keep experimenting—context and creativity are key. 🎨  
-Ask for clarifications or more examples! 😊
 
